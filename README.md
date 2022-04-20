@@ -1,0 +1,1 @@
+O código cria um array que será composto por todas as palavras que o usuário digitar. Quando ele não quiser mais digitar palavras é só ele apertar "Enter" e o código irá retornar todas as palavras digitadas em ordem alfabética.
